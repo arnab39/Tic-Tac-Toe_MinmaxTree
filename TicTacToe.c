@@ -192,8 +192,8 @@ int main(){
     int x_count=0,o_count=0,choice;
     int end=0;
     int x_in,y_in;
-    printf("\nARNAB MONDAL(14EC35031)");
-    printf("\n***********************");
+    printf("\nTIC-TAC-TOE PLAYER");
+    printf("\n******************");
     printf("\nDo you want to play a game with the computer or to find the next best move given a state:\n");
     printf("1. Play a game\n");
     printf("2. Give a state to find the next best move\n");
